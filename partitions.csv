@@ -1,0 +1,3 @@
+nvs,        data,   nvs,,  0x4000,  
+factory,    app,    factory, , 2M, 
+coredump,   data,   coredump,,0x8000,  

@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "ESP32_blader_new",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"adafruit_ssd1306.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"system_error": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"ui_screen1.h": "c",
+			"lvgl.h": "c",
+			"gui.h": "c",
+			"lv_obj.h": "c",
+			"lv_group.h": "c",
+			"stddef.h": "c",
+			"lv_color.h": "c",
+			"chrono": "cpp",
+			"random": "cpp",
+			"limits": "cpp"
+		}
+	}
+}

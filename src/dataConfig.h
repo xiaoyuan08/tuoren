@@ -1,0 +1,22 @@
+#ifndef __DATA_CONFIG_H
+#define __DATA_CONFIG_H
+
+
+//硬件数据默认值
+#define MACHINE_CODE 111
+#define MACHINE_ID 11
+#define BATTERY_PERCENT 33
+#define WIFI_RSSI 0
+#define MOTOR_FORWARD 0
+#define MOTOR_BACKWARD 0
+
+//配置数据默认值
+#define DEFAULT_TIME_THRESHOLD 5  
+#define DEFAULT_PRESS_THRESHOLD 1 
+
+#define DEFAULT_MAX_QUALITY 10000.0 
+#define DEFAULT_MAX_TIME 12 
+
+
+#endif
+
